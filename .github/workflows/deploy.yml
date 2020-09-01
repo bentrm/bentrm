@@ -30,3 +30,4 @@ jobs:
           github_token: ${{ github.token }}
           publish_dir: _site
           publish_branch: master
+          cname: bentrm.dev

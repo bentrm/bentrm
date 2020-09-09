@@ -6,3 +6,5 @@ title: Welcome...
 # {{ title }}
 
 This is nice.
+
+This page has been updated.
